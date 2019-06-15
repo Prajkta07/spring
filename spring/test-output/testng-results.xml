@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64" started-at="2019-06-15T03:03:10Z" finished-at="2019-06-15T03:03:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64" started-at="2019-06-15T03:03:10Z" finished-at="2019-06-15T03:03:10Z">
+      <class name="com.example.spring.ApplicationTests">
+        <test-method status="PASS" signature="contextLoads()[pri:0, instance:com.example.spring.ApplicationTests@3159c4b8]" name="contextLoads" duration-ms="19" started-at="2019-06-15T03:03:10Z" finished-at="2019-06-15T03:03:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.example.spring.ApplicationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
